@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Mixer",
+  "description": "Upload one or two images and use a text prompt to edit, combine, or transform them using the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
